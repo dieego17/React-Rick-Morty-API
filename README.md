@@ -1,8 +1,20 @@
-# React + Vite
+# Rick & Morty Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web desarrollada en React que utiliza la API de Rick & Morty para mostrar información sobre los personajes y episodios de la serie. Los usuarios pueden explorar diferentes secciones de la aplicación para descubrir detalles interesantes sobre sus personajes y episodios favoritos de Rick & Morty.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Exploración de Personajes**: Los usuarios pueden navegar a través de una lista de personajes de la serie, ver detalles específicos de cada personaje y buscar personajes por nombre.
+  
+- **Exploración de Episodios**: Los usuarios pueden explorar una lista de episodios, ver detalles de cada episodio y buscar episodios por nombre o número.
+
+## Tecnologías Utilizadas
+
+- **React**: El proyecto está construido utilizando React, un framework de JavaScript para la creación de interfaces de usuario.
+  
+- **HTML y CSS con Bootstrap**: Para la estructura y el diseño de la interfaz de usuario.
+
+## Participante del proyecto
+- Diego Rubio
+
+
