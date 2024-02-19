@@ -4,13 +4,11 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import ReactDOM from 'react-dom/client'
 
 import { BrowserRouter, Routes, Route, Navigate, Router } from 'react-router-dom'
-import Home from './components/home/Home'
-import Layout from './Layout'
-import Actores from './components/autor/Actores'
-import Episodios from './components/episodiocars/Episodios'
-import EpisodiosActores from './components/episodiosactors/EpisodiosActores'
-
-
+import Home from './components/Home'
+import Layout from './components/Layout'
+import Actores from './components/Actores'
+import Episodios from './components/Episodios'
+import EpisodiosActores from './components/EpisodiosActores'
 
 
 
